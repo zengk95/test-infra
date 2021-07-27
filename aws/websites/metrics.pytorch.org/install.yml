@@ -17,7 +17,6 @@
         rm -rf /etc/pytorch
         mkdir -p \
           /etc/pytorch/grafana-provisioning/datasources \
-          /etc/pytorch/grafana-provisioning/notifiers \
           /etc/pytorch/grafana-provisioning/dashboards \
           /etc/pytorch/dashboards/ \
           /etc/pytorch/grafana
